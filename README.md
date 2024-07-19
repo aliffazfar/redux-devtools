@@ -1,4 +1,4 @@
-# React Native Hermes Debugger
+# Redux DevTools for React Native with Hermes
 
 ![Screenshot 2024-07-19 at 5 33 38 PM](https://github.com/user-attachments/assets/964a72a8-5e0e-4c5b-bbc5-6a8978b693c6)
 
