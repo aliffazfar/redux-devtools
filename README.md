@@ -62,7 +62,7 @@ if (__DEV__) {
   );
 }
 
-const store = createStore(reducer, devToolsEnhancer());
+const store = createStore(reducer, enhancers);
 ```
 
 > Note: passing enhancer as last argument requires redux@>=3.1.0
